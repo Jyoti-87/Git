@@ -1,3 +1,3 @@
-# Test Git
+# TestGit
 My local git repository
 This is my first local git
